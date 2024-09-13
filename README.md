@@ -8,11 +8,7 @@
   <p align="center">
     Estou estudando Java !
   </p>
-  
-  <p align="center">
-Bem vindo ao meu portfólio
-  </p>
-  
+   
 </div>
 
 <div align="center">
